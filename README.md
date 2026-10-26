@@ -1,7 +1,7 @@
 **Retail Sales Analysis| Excel, Power BI & SQL**
 
 **Dashboard Preview**
-![Retail Sales Dashboard](Retail-Sales-Dashboard.png)
+![Retail Sales Dashboard](Retail-Sales-Dashboard.png..png)
 
 **Project Overview**
 
